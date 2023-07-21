@@ -13,8 +13,8 @@ main:
   - title: "Conference"
     url: ./#conference
 
-  - title: "research"
-    url: ./#research
+  - title: "Publications"
+    url: ./#publications
 
   - title: "Research"
     url: ./#research
