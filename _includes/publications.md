@@ -7,7 +7,7 @@
   <strong>Zhong W</strong>, Chu T, Tissot P, Wu Z, Chen J, Zhang H. (2022). Integrated coastal subsidence analysis using InSAR, LiDAR, and land cover data. <em>Remote Sensing of Environment</em>, 282, 113297.
   </li>
   <li>
-  <strong>Zhong W</strong>, Zhang T, Chen J, Shang J, Wang S, Mu C, Fan C. (2021). Seasonal deformation monitoring over thermokarst landforms using terrestrial laser scanning in Northeastern Qinghai-Tibetan Plateau. <em>International Journal of Applied Earth Observation and Geoinformation<em>, 103, 102501.
+  <strong>Zhong W</strong>, Zhang T, Chen J, Shang J, Wang S, Mu C, Fan C. (2021). Seasonal deformation monitoring over thermokarst landforms using terrestrial laser scanning in Northeastern Qinghai-Tibetan Plateau. <em>International Journal of Applied Earth Observation and Geoinformation</em>, 103, 102501.
   </li>
   <li>
   <strong>Zhong W</strong>, Nian Y, Pan X, Wang Y. (2015). Landslide monitoring analysis based on 3D laser scanning: a case study of Fulongping and Hongshangen landslides in Lanzhou. <em>Journal of Lanzhou University (Natural Sciences)</em>, 06. (In Chinese)
