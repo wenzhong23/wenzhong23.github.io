@@ -1,0 +1,44 @@
+# Basic Information 
+title: Wen Zhong
+position: Ph.D. Candidate
+affiliation: Texas A&M University-Corpus Christi
+affiliation_link: https://www.tamucc.edu/
+email: wzhong@islander.tamucc.edu
+
+# Search Engine Optimization (SEO)
+keywords: wen zhong, zhong wen
+canonical: https://wenzhong23.github.io/
+description: Wen Zhong is a phd candidate at Texas A&M University-Corpus Christi. Her research focuses on land subsidence investigation and flooding analysis.
+
+# The option is used to show the last update time.
+enable_last_update: true
+
+# Links
+google_scholar: https://scholar.google.com/citations?user=Xj3uOfUAAAAJ&hl=en
+# research_gate: https://www.researchgate.net/profile/Wen-Zhong-3
+twitter: https://twitter.com/Wen_Zhong_
+# cv_link: https://pages.jh.edu/yliu538/files/Yaoyao_Liu_Curriculum_Vitae.pdf
+github_link: https://github.com/wenzhong23
+linkedin: https://www.linkedin.com/in/wen-zhong-9a59771a5/
+
+
+# Images 
+avatar: ./assets/img/fig_20230719143750.jpg
+# favicon: ./assets/img/favicon.png
+# favicon_dark: ./assets/img/favicon-dark.png
+
+# Analytics
+# Please remove the following lines about analytics services if you fork my project. 
+# Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
+# clustrmaps_id: l3lesztPwCz-uXlzFI1Lt9SB3Ctz-pBQuMdYqnD0Ul8
+
+remote_theme: yaoyao-liu/minimal-light
+
+# The following files will be removed from the generated website.
+exclude:
+  - build.sh
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - CNAME
