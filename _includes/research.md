@@ -1,7 +1,6 @@
 <h1 id="research"></h1>
 
-<h2 style="margin: 60px 0px -15px;">Research <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=Uf9GqRsAAAAJ" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://dblp.uni-trier.de/pid/12/10033-1.html" target="_blank" style="font-size:15px;">DBLP</a><temp style="font-size:15px;">]</temp></h2>
-
+<h2 style="margin: 60px 0px -15px;">Research</h2>
 
 <div class="research">
 <ol class="bibliography">
