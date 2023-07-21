@@ -14,11 +14,5 @@ main:
     pdf: https://arxiv.org/pdf/2306.00988.pdf
     image: https://img.yliu.me/teaser/miccai2023.png
 
-  - title: Continual Detection Transformer for Incremental Object Detection
-    authors: <strong>Yaoyao Liu</strong>, Bernt Schiele, Andrea Vedaldi, Christian Rupprecht
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.
-    pdf: https://www.robots.ox.ac.uk/~vgg/publications/2023/Liu23/liu23.pdf
-    image: https://img.yliu.me/teaser/cvpr23_1.png
 
 
