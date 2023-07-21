@@ -1,17 +1,17 @@
 main:
 
+  - title: Integrated coastal subsidence analysis using InSAR, LiDAR, and land cover data
+    authors: Wen Zhong, Tianxing Chu, Philippe Tissot, Zhenming Wu, Jie Chen, Hua Zhang*(<sup>*</sup>Corresponding author)
+    journal_short: RSE
+    journal: Remote Sensing of Environment
+    pdf: https://drive.google.com/file/d/1hAKcc_IVjVjWC87JzmHpcdwrIphabCV2/view?usp=sharing
+    image: ./assets/teaser/multi_scale_map_2_updated.jpg
+    
   - title: Adding 3D Geometry Control to Diffusion Models
     authors: Wufei Ma*, Qihao Liu*, Jiahao Wang*, Angtian Wang, <strong>Yaoyao Liu<sup>#</sup></strong>, Adam Kortylewski, Alan Yuille (<sup>#</sup>Corresponding author)
-    conference_short: Preprint
-    conference: Under review.
+    journal_short: Preprint
+    journal: Under review.
     pdf: https://arxiv.org/pdf/2306.08103.pdf
-    image: ./assets/teaser/multi_scale_map_2_updated.jpg
-
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
     image: ./assets/teaser/multi_scale_map_2_updated.jpg
 
 
