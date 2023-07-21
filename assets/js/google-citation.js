@@ -41,7 +41,7 @@
 			}
 			//start the count
 			var stars = 0;
-            response_pub = response.publications
+            response_pub = response.research
 
 			for (var i in response_pub) {
                 if (response_pub[i].title=="Meta-Transfer Learning for Few-Shot learning")
