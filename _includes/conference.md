@@ -22,14 +22,3 @@
   <li>École Polytechnique Fédérale de Lausann (EPFL), March 2023.</li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Learning to Self-train for Semi-supervised Few-shot Classification.</h4>
-
-<ul style="margin:0 0 5px;">
-  <li>NeurIPS Official Meetups, Beijing, December 2019.</li>
-</ul>
-
-<h4 style="margin:0 10px 0;">Multi-class Incremental Learning.</h4>
-
-<ul style="margin:0 0 20px;">
-  <li>Nanyang Technological University, Singapore, July 2019.</li>
-</ul>

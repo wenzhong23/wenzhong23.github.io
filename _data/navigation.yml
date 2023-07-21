@@ -10,9 +10,6 @@ main:
   - title: "News"
     url: ./#news
 
-  - title: "Conference"
-    url: ./#conference
-
   - title: "Publications"
     url: ./#publications
 
