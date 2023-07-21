@@ -12,7 +12,7 @@ main:
     conference_short: MICCAI
     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
-    image: https://img.yliu.me/teaser/miccai2023.png
+    image: ./assets/teaser/multi_scale_map_2_updated.jpg
 
 
 
