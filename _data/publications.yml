@@ -5,7 +5,6 @@ main:
     conference_short: Preprint
     conference: Under review.
     pdf: https://arxiv.org/pdf/2306.08103.pdf
-    bibtex: https://bib.yliu.me/arXiv23_1.txt
     image: ./assets/teaser/multi_scale_map_2_updated.jpg
 
   - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
@@ -13,7 +12,6 @@ main:
     conference_short: MICCAI
     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
-    bibtex: https://bib.yliu.me/MICCAI23.txt
     image: https://img.yliu.me/teaser/miccai2023.png
 
   - title: Continual Detection Transformer for Incremental Object Detection
@@ -21,7 +19,6 @@ main:
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.
     pdf: https://www.robots.ox.ac.uk/~vgg/publications/2023/Liu23/liu23.pdf
-    bibtex: https://bib.yliu.me/CVPR23a.txt
     image: https://img.yliu.me/teaser/cvpr23_1.png
 
 
