@@ -13,28 +13,15 @@ main:
     conference_short: MICCAI
     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: https://img.yliu.me/teaser/miccai2023.png
-    notes: Early Accept
 
   - title: Continual Detection Transformer for Incremental Object Detection
     authors: <strong>Yaoyao Liu</strong>, Bernt Schiele, Andrea Vedaldi, Christian Rupprecht
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.
     pdf: https://www.robots.ox.ac.uk/~vgg/publications/2023/Liu23/liu23.pdf
-    code: https://github.com/yaoyao-liu/CL-DETR
-    page: https://lyy.mpi-inf.mpg.de/CL-DETR/
     bibtex: https://bib.yliu.me/CVPR23a.txt
     image: https://img.yliu.me/teaser/cvpr23_1.png
 
-  - title: Class-Incremental Exemplar Compression for Class-Incremental Learning
-    authors: Zilin Luo, <strong>Yaoyao Liu</strong>, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.
-    pdf: https://openaccess.thecvf.com/content/CVPR2023/papers/Luo_Class-Incremental_Exemplar_Compression_for_Class-Incremental_Learning_CVPR_2023_paper.pdf
-    code: https://github.com/xfflzl/CIM-CIL
-    page: https://class-il.mpi-inf.mpg.de/CIM/
-    bibtex: https://bib.yliu.me/CVPR23b.txt
-    image: https://img.yliu.me/teaser/cvpr23_2.png
 
