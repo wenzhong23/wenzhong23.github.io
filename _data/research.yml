@@ -6,9 +6,7 @@ main:
     journal: Remote Sensing of Environment
     pdf: https://drive.google.com/file/d/1hAKcc_IVjVjWC87JzmHpcdwrIphabCV2/view?usp=sharing
     image: ./assets/teaser/multi_scale_map_2_updated.jpg
-    description: This study first attempts to integrate InSAR and airborne LiDAR methods to investigate the spatiotemporal pattern of coastal subsidence. By examining and 
-    comparing about 30-m InSAR results and 1-m airborne LiDAR results, this study found that, over the highly subsided area, airborne LiDAR could complement InSAR results 
-    by shedding light on the subpixel variations of InSAR results and identifying significant surface changes that InSAR cannot capture.
+    description: This study first attempts to integrate InSAR and airborne LiDAR methods to investigate the spatiotemporal pattern of coastal subsidence. By examining and comparing about 30-m InSAR results and 1-m airborne LiDAR results, this study found that, over the highly subsided area, airborne LiDAR could complement InSAR results by shedding light on the subpixel variations of InSAR results and identifying significant surface changes that InSAR cannot capture.
     
   - title: Seasonal deformation monitoring over thermokarst landforms using terrestrial laser scanning in Northeastern Qinghai-Tibetan Plateau
     authors: Wen Zhong, Tingjun Zhang*, Jie Chen, Jianguo Shang, Shufa Wang, Cuicui Mu, Chengyan Fan 
