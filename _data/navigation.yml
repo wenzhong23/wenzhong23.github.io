@@ -4,14 +4,17 @@ main:
     url: ./#contact 
     right: true 
 
-  - title: "Gallery"
-    url: ./#gallery
+  # - title: "Gallery"
+  # url: ./#gallery
+
+  - title: "News"
+    url: ./#news
 
   - title: "Publications"
     url: ./#publications
 
   - title: "Research"
     url: ./#research
-    
+
   - title: "Bio"
     url: ./#about-me
