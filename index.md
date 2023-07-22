@@ -17,8 +17,6 @@ My research focuses on **land subsidence** (InSAR, LiDAR, UAS photogrammetry), *
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/news.md %}
-
 {% include_relative _includes/gallery.md %}
 
 {% include_relative _includes/contact.md %}
