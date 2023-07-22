@@ -6,6 +6,7 @@ main:
     journal: Remote Sensing of Environment
     pdf: https://drive.google.com/file/d/1hAKcc_IVjVjWC87JzmHpcdwrIphabCV2/view?usp=sharing
     image: ./assets/teaser/multi_scale_map_2_updated.jpg
+    description: hahaha 
     
   - title: Seasonal deformation monitoring over thermokarst landforms using terrestrial laser scanning in Northeastern Qinghai-Tibetan Plateau
     authors: Wen Zhong, Tingjun Zhang*, Jie Chen, Jianguo Shang, Shufa Wang, Cuicui Mu, Chengyan Fan 
@@ -13,6 +14,6 @@ main:
     journal: International Journal of Applied Earth Observations and Geoinformation
     pdf: https://drive.google.com/file/d/1DYErBc8WvLRiqhcEA7bR_uI9zvT1gHqy/view?usp=sharing
     image: ./assets/teaser/change_2016410.jpg
-
+    description: hahaha55 
 
 

@@ -15,7 +15,9 @@
   </div>
   <div class="col-sm-3" style="position: relative; padding-left: 15px;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
-      <div class="description">{{ link.description }}</div>
+      <div class="author">{{ link.authors }}</div>
+      <div class="periodical"><em>{{ link.journal }}</em>
+      </div>
   </div>
 </div>
 </li>
