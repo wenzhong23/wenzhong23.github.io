@@ -8,7 +8,7 @@
 {% for link in site.data.research.main %}
 
 <li>
-<div class="pub-row">
+<div class="pub-row" style="padding-top: 5px;">
   <div class="col-sm-9 abbr" style="position: relative;padding-right: 15px; padding-left: 15px;">
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1"> 
             <abbr class="badge">{{ link.journal_short }}</abbr>
