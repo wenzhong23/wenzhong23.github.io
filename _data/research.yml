@@ -1,18 +1,18 @@
 main:
 
   - title: Integrated coastal subsidence analysis using InSAR, LiDAR, and land cover data
-    authors: Wen Zhong, Tianxing Chu, Philippe Tissot, Zhenming Wu, Jie Chen, Hua Zhang*(<sup>*</sup>Corresponding author)
+    authors: Wen Zhong, Tianxing Chu, Philippe Tissot, Zhenming Wu, Jie Chen, Hua Zhang*
     journal_short: RSE
     journal: Remote Sensing of Environment
     pdf: https://drive.google.com/file/d/1hAKcc_IVjVjWC87JzmHpcdwrIphabCV2/view?usp=sharing
     image: ./assets/teaser/multi_scale_map_2_updated.jpg
     
-  - title: Adding 3D Geometry Control to Diffusion Models
-    authors: Wufei Ma*, Qihao Liu*, Jiahao Wang*, Angtian Wang, <strong>Yaoyao Liu<sup>#</sup></strong>, Adam Kortylewski, Alan Yuille (<sup>#</sup>Corresponding author)
-    journal_short: Preprint
-    journal: Under review.
-    pdf: https://arxiv.org/pdf/2306.08103.pdf
-    image: ./assets/teaser/multi_scale_map_2_updated.jpg
+  - title: Seasonal deformation monitoring over thermokarst landforms using terrestrial laser scanning in Northeastern Qinghai-Tibetan Plateau
+    authors: Wen Zhong, Tingjun Zhang*, Jie Chen, Jianguo Shang, Shufa Wang, Cuicui Mu, Chengyan Fan 
+    journal_short: JAG
+    journal: International Journal of Applied Earth Observations and Geoinformation
+    pdf: https://drive.google.com/file/d/1DYErBc8WvLRiqhcEA7bR_uI9zvT1gHqy/view?usp=sharing
+    image: ./assets/teaser/change_2016410.jpg
 
 
 
