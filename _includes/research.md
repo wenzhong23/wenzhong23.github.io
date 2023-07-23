@@ -13,7 +13,7 @@
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1"> 
             <abbr class="badge">{{ link.journal_short }}</abbr>
   </div>
-  <div class="col-sm-3" style="position: relative; padding-left: 15px;">
+  <div class="col-sm-3" style="position: relative; padding-left: 5px;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="description">{{ link.description }}</div>
   </div>

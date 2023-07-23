@@ -24,7 +24,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 @media print, screen and (min-width: 480px) {.col-sm-9 {width: 100%;}}
 
-.research { margin-top: 2rem; }
+.research { margin-top: 2rem; margin-bottom: -2rem;}
 
 .research h1 { color: var(--global-theme-color); font-size: 2rem; text-align: center; margin-top: 1em; margin-bottom: 1em; }
 
@@ -36,9 +36,9 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .research ol.bibliography { list-style: none; padding: 0; margin-top: 0; }
 
-.research ol.bibliography li { min-height: 110px; margin-bottom: 25%; }
+.research ol.bibliography li { min-height: 110px; margin-bottom: 0%; }
 
-.research ol.bibliography li .abbr { height: 8rem; margin-bottom: 12%; }
+.research ol.bibliography li .abbr { margin-bottom: 0%; }
 
 .research ol.bibliography li .abbr abbr { display: inline-block; background-color: var(--global-theme-color); padding-left: 1rem; padding-right: 1rem; position: absolute; top: -10px; left: 0px; }
 
