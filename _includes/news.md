@@ -5,9 +5,9 @@
 <ul>
 <li><strong>[Feb. 17, 2023]</strong> Wen passed the Comprehensive Examination and advanced to doctoral candidacy. </li>
 <li><strong>[Nov. 11, 2022]</strong> Wen successfully defended her Dissertation Proposals. </li>
-<li><strong>[Sep. 26, 2022]</strong> Our Paper about coastal subsidence monitoring is accepted by <a href="https://www.sciencedirect.com/journal/remote-sensing-of-environment">Remote Sensing of Environment</a>.</li>
-<li><strong>[Aug. 12, 2021]</strong> Our Paper about thermokarst seasonal development analysisi is accepted by <a href="https://www.sciencedirect.com/journal/international-journal-of-applied-earth-observation-and-geoinformation">International Journal of Applied Earth Observation and Geoinformation</a>.</li>
-<li><strong>[Aug. 10, 2021]</strong> Wen presented her Prospectus. </li>
+<li><strong>[Sep. 26, 2022]</strong> Our paper about coastal subsidence monitoring is accepted by <a href="https://www.sciencedirect.com/journal/remote-sensing-of-environment">Remote Sensing of Environment</a>.</li>
+<li><strong>[Aug. 12, 2021]</strong> Our paper about thermokarst seasonal development analysis is accepted by <a href="https://www.sciencedirect.com/journal/international-journal-of-applied-earth-observation-and-geoinformation">International Journal of Applied Earth Observation and Geoinformation</a>.</li>
+<li><strong>[Aug. 10, 2021]</strong> Wen presented her Dissertation Prospectus. </li>
 
 <!-- <li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
 <div id="newsmore" style="display:none"> 
