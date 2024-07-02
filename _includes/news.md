@@ -3,12 +3,12 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
-<li><strong>[Jul. 1, 2024]</strong> Wen start to work as a Postdoc at the Virginia Tech. </li>
-<li><strong>[Apr. 5, 2024]</strong> Wen successfully defended her Dissertation and earned a new title: PhD. </li>
+<li><strong>[Jul. 01, 2024]</strong> Wen start to work as a Postdoc at the Virginia Tech. </li>
+<li><strong>[Apr. 05, 2024]</strong> Wen successfully defended her Dissertation and earned a new title: PhD. </li>
 <li><strong>[Feb. 17, 2023]</strong> Wen passed the Comprehensive Examination and advanced to doctoral candidacy. </li>
 <li><strong>[Nov. 11, 2022]</strong> Wen successfully defended her Dissertation Proposals. </li>
-<li><strong>[Sep. 26, 2022]</strong> Our paper about coastal subsidence monitoring is accepted by <a href="https://www.sciencedirect.com/journal/remote-sensing-of-environment">Remote Sensing of Environment</a>.</li>
-<li><strong>[Aug. 12, 2021]</strong> Our paper about thermokarst seasonal development analysis is accepted by <a href="https://www.sciencedirect.com/journal/international-journal-of-applied-earth-observation-and-geoinformation">International Journal of Applied Earth Observation and Geoinformation</a>.</li>
+<li><strong>[Sep. 26, 2022]</strong> Our paper about <a href="https://www.sciencedirect.com/science/article/pii/S0034425722004035">coastal subsidence monitoring</a> is accepted by <a href="https://www.sciencedirect.com/journal/remote-sensing-of-environment">Remote Sensing of Environment</a>.</li>
+<li><strong>[Aug. 12, 2021]</strong> Our paper about <a href="https://www.sciencedirect.com/science/article/pii/S0303243421002087">thermokarst seasonal development analysis</a> is accepted by <a href="https://www.sciencedirect.com/journal/international-journal-of-applied-earth-observation-and-geoinformation">International Journal of Applied Earth Observation and Geoinformation</a>.</li>
 <li><strong>[Aug. 10, 2021]</strong> Wen presented her Dissertation Prospectus. </li>
 
 <!-- <li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
