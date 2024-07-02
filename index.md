@@ -11,7 +11,7 @@ I am a phd candidate enrolled in the [Geospatial Computer Science Program](https
 
 My research focuses on **land subsidence** (InSAR, LiDAR, UAS photogrammetry), **flooding analysis** and **machine learning**.
 
-<!--<strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am currently on the academic job market, looking for postdoc and faculty positions. Please feel free to contact me if you are interested.</strong></strong>-->
+<strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am currently on the academic job market, looking for postdoc and faculty positions. Please feel free to contact me if you are interested.</strong></strong>
 
 {% include_relative _includes/research.md %}
 
