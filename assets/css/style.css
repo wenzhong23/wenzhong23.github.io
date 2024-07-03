@@ -297,7 +297,7 @@ header {
     float: left;
     position: fixed;
     -webkit-font-smoothing: subpixel-antialiased;
-    padding-top: 5.5em;
+    padding-top: 4em;
     text-align: center
 }
 
@@ -332,7 +332,7 @@ header ul a {
     color: #999;
     display: block;
     text-align: center;
-    padding-top: 6px;
+    padding-top: 4px;
     height: 34px
 }
 
